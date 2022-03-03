@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <h1 className="text-3xl font-bold underline">
-        Hello world!
+        YOUR NEXT FRONTEND DEVELOPER
       </h1>
     </div>
    
